@@ -1,7 +1,5 @@
 # Hi, I'm Parham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-**Parham-Esmailzadeh/Parham-Esmailzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m Currently Working on AI Project For Kharazmi Contest
 - 🌱 I’m Currently Learning NLP
 - 👯 I’m Looking to Collaborate Other Developers in Community
