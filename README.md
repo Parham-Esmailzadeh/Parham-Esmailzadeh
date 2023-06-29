@@ -1,9 +1,10 @@
 # Hi, I'm Parham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-- 🔭 I’m Currently Working on AI Project For Kharazmi Contest
+- 🔭 I’m Currently Working on a team project
 - 🌱 I’m Currently Learning NLP
 - 👯 I’m Looking to Collaborate Other Developers in Community
 - 💬 Ask me about Python and PyQt5 AnyTime
+- 📫 How To Reach me: Parhamesmailzadeh911@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parham-Esmailzadeh&show_icons=true&theme=radical)
 
