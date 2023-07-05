@@ -5,8 +5,10 @@
 - 👯 I’m Looking to Collaborate Other Developers in Community
 - 💬 Ask me about Python and PyQt5 AnyTime
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parham-Esmailzadeh&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parham-Esmailzadeh&show_icons=true&theme=radical)
 
 
 🔗 &nbsp;**Connect with me**
