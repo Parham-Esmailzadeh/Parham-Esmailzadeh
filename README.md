@@ -6,7 +6,7 @@
 - 💬 Ask me about Python and PyQt5 AnyTime
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parham-Esmailzadeh_progress=true)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parham-Esmailzadeh&show_icons=true&theme=radical)
 
