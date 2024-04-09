@@ -1,10 +1,5 @@
 # Hi, I'm Parham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-- 🔭 I’m Currently Working on a team project
-- 🌱 I’m Currently Learning NLP
-- 👯 I’m Looking to Collaborate Other Developers in Community
-- 💬 Ask me about Python and PyQt5 AnyTime
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parham-Esmailzadeh&hide_progress=true)
 <br>
